@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "firstcontributions/first-contributions",
+    "stargazers_count": 25409,
+    "open_issues_count": 116,
+    "forks_count": 47594
+  },
+  {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 7824,
+    "stargazers_count": 7840,
     "open_issues_count": 62,
-    "forks_count": 734
+    "forks_count": 736
   },
   {
     "full_name": "franciscop/react-test",
@@ -19,8 +25,8 @@
   },
   {
     "full_name": "spiral-project/ihatemoney",
-    "stargazers_count": 772,
-    "open_issues_count": 45,
+    "stargazers_count": 775,
+    "open_issues_count": 46,
     "forks_count": 207
   },
   {
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 19480,
-    "open_issues_count": 101,
-    "forks_count": 1269
+    "stargazers_count": 19503,
+    "open_issues_count": 97,
+    "forks_count": 1272
   },
   {
     "full_name": "nworiekingslee/Open-pomodoro",
@@ -43,20 +49,20 @@
   },
   {
     "full_name": "rajivranjanmars/readme",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 943,
+    "stargazers_count": 947,
     "open_issues_count": 0,
-    "forks_count": 99
+    "forks_count": 101
   },
   {
     "full_name": "mockoon/mockoon",
-    "stargazers_count": 4105,
-    "open_issues_count": 54,
-    "forks_count": 233
+    "stargazers_count": 4112,
+    "open_issues_count": 56,
+    "forks_count": 231
   }
 ]
