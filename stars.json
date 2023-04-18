@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "open-sauced/browser-extensions",
+    "stargazers_count": 6,
+    "open_issues_count": 15,
+    "forks_count": 1
+  },
+  {
     "full_name": "nworiekingslee/insights",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -25,20 +31,20 @@
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 21259,
+    "stargazers_count": 21281,
     "open_issues_count": 106,
-    "forks_count": 1367
+    "forks_count": 1369
   },
   {
     "full_name": "faradayafrica/Faraday-frontend",
     "stargazers_count": 5,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 1403,
+    "stargazers_count": 1414,
     "open_issues_count": 2,
-    "forks_count": 151
+    "forks_count": 154
   }
 ]
